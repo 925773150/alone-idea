@@ -32,6 +32,17 @@ public class UserController {
         } catch (UnknownAccountException e){
             e.printStackTrace();
             System.out.println("用户名错误");
+            System.out.println("用户名错误");
+            System.out.println("用户名错误");
+            System.out.println("用户名错误");
+            System.out.println("用户名错误");
+            System.out.println("用户名错误");
+            System.out.println("用户名错误");
+            System.out.println("用户名错误");
+            System.out.println("用户名错误");
+            System.out.println("用户名错误");
+            System.out.println("用户名错误");
+            System.out.println("用户名错误");
         } catch (IncorrectCredentialsException e){
             e.printStackTrace();
             System.out.println("密码错误");
